@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 2. 登录[腾讯云后台](https://console.cloud.tencent.com/cam/capi)或者[阿里云后台](https://help.aliyun.com/document_detail/53045.html?spm=a2c4g.11186623.2.11.2c6a2fbdh13O53),获取 SecretId、SecretKey，如果使用阿里云DNS，注意需要添加DNS控制权限**AliyunDNSFullAccess**
 
-3. 将脚本下载到本地修改cf2dns.py中的SecretId、SecretKey
+3. 将脚本下载到本地修改f2dns.py中的SecretId、SecretKey
 
 4. 修改脚本中域名配置信息，可配置多个域名和多个子域名，注意选择DNS服务商
 
